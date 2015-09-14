@@ -137,4 +137,8 @@ public class PicCutActivity extends BaseNetworkActivity implements View.OnClickL
         super.onFailSession(errorInfo, failCode);
         finish();
     }
+
+	aaaaaaaaaaaaaaaaa 
+		棒棒棒棒棒棒棒棒棒棒棒棒棒棒棒、
+		sssssssssssssss
 }
