@@ -141,4 +141,5 @@ public class PicCutActivity extends BaseNetworkActivity implements View.OnClickL
 	aaaaaaaaaaaaaaaaa 
 		棒棒棒棒棒棒棒棒棒棒棒棒棒棒棒、
 		sssssssssssssss
+		ccccccccccccccc
 }
